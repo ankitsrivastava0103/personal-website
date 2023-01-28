@@ -1,0 +1,25 @@
+.menu {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 57px;
+
+  position: absolute;
+  width: 466px;
+  height: 53px;
+  left: 852px;
+  top: 40px;
+}
+
+.menu div {
+  height: 53px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 52px;
+
+  color: #FEAC5E;
+}

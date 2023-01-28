@@ -1,0 +1,61 @@
+.main {
+  position: relative;
+  height: 800px;
+  background: #222426;
+}
+
+.selfLogo {
+  position: absolute;
+  width: 388px;
+  height: 338px;
+  left: 39px;
+  top: 83px;
+}
+
+.firstContent {
+  position: absolute;
+  height: 75px;
+  left: 152px;
+  width: 645px;
+  top: 459px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 75px;
+
+  background: linear-gradient(
+    90deg,
+    #feac5e -1.52%,
+    #c779d0 50.51%,
+    #4bc0c8 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  /* text-fill-color: transparent; */
+}
+
+.secondContent {
+  position: absolute;
+  width: 656px;
+  height: 75px;
+  left: 152px;
+  top: 538px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 75px;
+
+  background: linear-gradient(
+    90deg,
+    #feac5e -1.52%,
+    #c779d0 50.51%,
+    #4bc0c8 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  /* text-fill-color: transparent; */
+}
