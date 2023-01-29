@@ -1,0 +1,122 @@
+.main {
+  position: relative;
+  height: 800px;
+
+  background: #222426;
+}
+
+.heading {
+  position: absolute;
+  width: 244px;
+  height: 75px;
+  left: 96px;
+  top: 83px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 75px;
+
+  color: #feac5e;
+}
+
+.skills {
+  position: absolute;
+  width: 541px;
+  height: 672px;
+  left: 853px;
+  top: 64px;
+}
+
+.skillsHeading {
+  position: absolute;
+  height: 85px;
+  left: 22px;
+  top: 87px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 123px;
+
+  color: #feac5e;
+}
+
+.skillsBox {
+ 
+
+  background: rgba(45, 46, 48, 0.7);
+  border-radius: 20px;
+}
+
+.skillsSection {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0px;
+  gap: 58px;
+
+  width: 80px;
+  height: 625px;
+  left: 906px;
+  top: 192px;
+}
+
+.aboutSection {
+  position: absolute;
+  width: 694px;
+  height: 450px;
+  left: 96px;
+  top: 210px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 45px;
+
+  color: #feac5e;
+}
+
+.lineOne {
+  position: absolute;
+  width: 280px;
+  height: 0px;
+  left: 160px;
+  top: 200px;
+
+  border: 5px solid #feac5e;
+}
+
+.lineTwo {
+  position: absolute;
+  width: 280px;
+  height: 0px;
+  left: 160px;
+  top: 350px;
+
+  border: 5px solid #feac5e;
+}
+
+.lineThree {
+  position: absolute;
+  width: 280px;
+  height: 0px;
+  left: 160px;
+  top: 480px;
+
+  border: 5px solid #feac5e;
+}
+
+.lineFour {
+  position: absolute;
+  width: 280px;
+  height: 0px;
+  left: 160px;
+  top: 620px;
+
+  border: 5px solid #feac5e;
+}
